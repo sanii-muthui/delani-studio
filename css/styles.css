@@ -5,7 +5,7 @@ body{
 }
 /**PARAGRAPHS AND HEADERS**/
 /**************************/
-h1, h2{
+h1, h2, h3{
     text-align: center;
     font-size: 25PX;
     
@@ -29,18 +29,17 @@ P{
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.service{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
 .center2{
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-    
+}
+#sanii{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .logo{
   display: block;
@@ -61,4 +60,28 @@ P{
   margin-left: auto;
   margin-right: auto;
     
+}
+/*********Portfolio********/
+/**************************/
+.row {
+  margin: 8px -16px;
+}
+
+/***********Add padding BETWEEN each column (if you want)*********/
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
