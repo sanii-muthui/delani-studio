@@ -18,7 +18,7 @@ P{
     font-size: 30px;
 }
 /******IMAGES******/
-/******************/
+/*****************/
 .jpg{
     height: 50%;
     width: 100%;
@@ -29,17 +29,17 @@ P{
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.center2{
+.second{
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
-#sanii{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+centered{
+  position: absolute!important;
+  top: 50%!important;
+  left: 50%!important;
+  transform: translate(-50%, -50%)!important;
 }
 .logo{
   display: block;
@@ -84,4 +84,18 @@ P{
   content: "";
   display: table;
   clear: both;
+}
+.folio{
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+.folio:hover{
+    opacity: 2;
+}
+/********************footer*******/
+/*********************************/
+.icons{
+      text-align: center;
+  margin-left: auto!important;
+  margin-right: auto!important;   
 }
