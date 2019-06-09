@@ -1,0 +1,64 @@
+@import url('bootstrap.css');
+body{
+    padding: 0!important;
+    margin:0!important;
+}
+/**PARAGRAPHS AND HEADERS**/
+/**************************/
+h1, h2{
+    text-align: center;
+    font-size: 25PX;
+    
+}
+P{
+    text-align: center;
+}
+.center p{
+    color: white;
+    font-size: 30px;
+}
+/******IMAGES******/
+/******************/
+.jpg{
+    height: 50%;
+    width: 100%;
+}
+.center{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.service{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.center2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    
+}
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  margin-top: -60px;
+}
+.mouse{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+    margin-top: 380px;
+}
+.do{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
