@@ -61,6 +61,9 @@ centered{
   margin-right: auto;
     
 }
+.contact{
+    background-image: url("/images/backgrounds/c_image.jpg");
+}
 /*********Portfolio********/
 /**************************/
 .row {
@@ -98,4 +101,18 @@ centered{
       text-align: center;
   margin-left: auto!important;
   margin-right: auto!important;   
+}
+.button{
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50; /* Green */
+  color: black;
+    border-radius: 12px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
