@@ -10,21 +10,21 @@ $(document).ready(function(){
       event.preventDefault();
   });
 });
-$(document).ready(Function(){
-$(.click1).click(Function(){
- $(".hidden").toggle();
- $(".show").toggle();
+$(document).ready(function(){
+$(.click1).click(function(){
+ $(".deisgn-hidden").toggle();
+ $(".design-show").toggle();
  });
   });
-$(document).ready(Function(){
-$(.click2).click(Function(){
- $(".hidden").toggle();
- $(".show").toggle();
+$(document).ready(function(){
+$(.click2).click(function(){
+ $(".development-hidden").toggle();
+ $(".development-show").toggle();
  });
   });
-$(document).ready(Function(){
-$(.click3).click(Function(){
- $(".hidden").toggle();
- $(".show").toggle();
+$(document).ready(function(){
+$(.click3).click(function(){
+ $(".product-hidden").toggle();
+ $(".product-show").toggle();
  });
   });
