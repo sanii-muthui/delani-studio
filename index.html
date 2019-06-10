@@ -4,6 +4,7 @@
             <link rel="shortcut icon" href="images/adwaita-icon-theme-avatar.png" type="image/png">
             <link type="text/css" href="css/styles.css" rel="stylesheet">
           <script src="js/scripts.js"></script>
+          <script src="js/jquery-3.4.1.js"></script>
           <title>Delani-Studio</title>
         </head>
         <body>
@@ -97,12 +98,26 @@
              </div>
             </div>
          <div class="contact">
-             <img src="images/backgrounds/c_image.jpg" alt="" style="width: 100%">
-             <div class="centered">
+             <img src="images/backgrounds/c_image.jpg" alt="" class="jpg">
+             <div class="center2">
              <h4>Contact Us</h4>
-             <input type="text" placeholder="enter name">
-             <input type="text" placeholder="enter email"> <br>
-             <textarea placeholder="enter text here..."></textarea>
+            <form action="">
+             <div class="form-group">
+             <input id="text" name="name" placeholder="enter name" value="">
+             </div>
+             <div class="form-group">
+             <input id="text"  name="email" placeholder="enter email" value=""> <br>
+             </div>
+             <div class="form-group">
+             <textarea placeholder="enter message here..." id="" name="message" value=""></textarea>
+             </div>
+             <div class="submit">
+                 <input type="submit" value="submit" class="button">
+             </div>
+                 </form>
+                 <div id="story">
+                    
+                 </div>
              </div>
          </div>
          <div class="last">
