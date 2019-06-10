@@ -6,7 +6,25 @@ $(document).ready(function(){
        $(".name").text(nameInput);
         $(".email").text(emailInput);
         $(".message").text(messageTextArea);
-    $("#story").show();
+    alert("submitted");
       event.preventDefault();
   });
 });
+$(document).ready(Function(){
+$(.click1).click(Function(){
+ $(".hidden").toggle();
+ $(".show").toggle();
+ });
+  });
+$(document).ready(Function(){
+$(.click2).click(Function(){
+ $(".hidden").toggle();
+ $(".show").toggle();
+ });
+  });
+$(document).ready(Function(){
+$(.click3).click(Function(){
+ $(".hidden").toggle();
+ $(".show").toggle();
+ });
+  });
