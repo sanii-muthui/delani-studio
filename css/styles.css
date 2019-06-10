@@ -35,7 +35,7 @@ P{
   left: 50%;
   transform: translate(-50%, -50%);
 }
-centered{
+.centers{
   position: absolute!important;
   top: 50%!important;
   left: 50%!important;
