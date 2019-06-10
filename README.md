@@ -1,4 +1,4 @@
-##Project Nmae
+##Project Name
 Delani Studio
 ##Author
 By Daniel Muthui
