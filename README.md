@@ -4,7 +4,7 @@ Delani Studio
 By Daniel Muthui
 ##Description
 This app is for delani studio with a portfolio, service, contact form where you can submit details and what to do section and a scroll down mouse .
-#Requirements
+##Requirements
 .Access to internet
 .github.
 .browser
