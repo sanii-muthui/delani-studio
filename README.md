@@ -9,11 +9,11 @@ Access to internet
 github
 browser
 ##Technologies Used
-HTML
-GITHUB
-CSS
-JAVASCRIPT
-JQUERY
+-HTML
+-GITHUB
+-CSS
+-JAVASCRIPT
+-JQUERY
 ##Support and Contact Details
 muthuisanii@gmail.com
 ##Licence
