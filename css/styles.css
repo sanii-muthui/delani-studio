@@ -55,12 +55,15 @@ P{
   width: 65%;
     margin-top: 380px;
 }
-.do{
+.do, .do1, .do2{
     display: block;
   margin-left: auto;
   margin-right: auto;
-    
-}
+
+
+  }
+  
+  }
 .contact{
   background-image: url("../images/backgrounds/c_image.jpg");
   background-position: center;
