@@ -1,31 +1,39 @@
-##Project Name
+###Project Name
 
 Delani Studio
 
-##Author
+###Author
 
 By [Daniel Muthui]
 
-##Description
+###Description
 
 This app is for delani studio with a portfolio, service, contact form where you can submit details and what to do section and a scroll down mouse .
 
-##Requirements
+###Requirements
 
 1.Access to internet
+
 2.github
+
 3.browser
 
-##Technologies Used
+###Technologies Used
 
 -HTML
+
 -GITHUB
+
 -CSS
+
 -JAVASCRIPT
+
 -JQUERY
 
-##Support and Contact Details
+###Support and Contact Details
+
 muthuisanii@gmail.com
 
-##Licence
+###Licence
+
 Copyright (c) 2019 Daniel Muthui
